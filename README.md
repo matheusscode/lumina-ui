@@ -2,6 +2,9 @@
 
 > Lumina UI is a meticulously crafted design system aimed at providing an intuitive and consistent development experience. Based on the philosophy of Tailwind CSS and driven by the simplicity of pure HTML, Lumina UI elevates interface creation to a new level of efficiency and elegance.
 
+</br>
+
+
 ## Key Features:
 - Consistent Design Patterns: Lumina UI establishes clear and consistent guidelines for interface design, ensuring a cohesive user experience across all applications.
 
@@ -11,6 +14,8 @@
 
 - Seamless TypeScript Integration: Developed with TypeScript, Lumina UI offers strong typing and a safer development experience, reducing errors and increasing productivity.
 
+</br>
+
 ## How to Use:
 - Simple Installation: Add Lumina UI to your project with just a few simple commands, ensuring a smooth and quick integration.
 
@@ -18,10 +23,15 @@
 
 - Practical Examples: Find practical examples of component usage and design patterns, facilitating implementation in your own applications.
 
+</br>
+
+
 ## Contribution:
 Lumina UI is an open-source project and welcomes contributions from the entire community. Feel free to open issues, submit pull requests, or propose new features to make Lumina UI even better.
 
 Start illuminating your interfaces with Lumina UI today!
+
+</br>
 
 
 ## Getting Started
@@ -44,6 +54,9 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+</br>
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -52,6 +65,9 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+</br>
+
 
 ## Deploy on Vercel
 
